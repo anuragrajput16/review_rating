@@ -1,0 +1,95 @@
+.rightSide {
+    height: auto;
+    float: right;
+    margin: 80px 90px 0px 0px;
+  }
+  #align_signup {
+    color: rgb(99, 0, 139);
+    margin: 28px 103px 0px 0px;
+  
+    font-size: 30px;
+  }
+  
+  #form_para {
+    margin: 34px 0px 57px 0px;
+    font-size: 14px;
+    color: grey;
+  }
+  .formData {
+    width: 300px;
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+  }
+  .formData:hover {
+    border: 1px solid gray;
+  }
+  .rightSide form {
+    padding: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    float: right;
+    height: auto;
+    width: 400px;
+    display: block;
+    /* margin:120px 80px 0px 88px; */
+    border-radius: 20px;
+    border: 0px solid gray;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+  }
+  #formBorderRight1_img {
+    float: left;
+    border-radius: 20px 0px 0px 0px;
+    height: 130px;
+    width: 130px;
+    margin: -21px;
+  }
+  
+  #formBorderLeft_img {
+    float: right;
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+  }
+  
+  #button {
+    margin: 20px 0px 0px 0px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-image: linear-gradient(
+      to left,
+      rgb(213, 27, 255),
+      rgb(193, 131, 201)
+    );
+    padding: 7px 20px;
+    cursor: pointer;
+  }
+  #button:hover {
+    background-image: linear-gradient(
+      to left,
+      rgb(213, 27, 255),
+      rgb(192, 15, 232)
+    );
+  
+    color: white;
+  }
+  #under_line{
+      width: 60%; 
+      border-bottom: 1px solid rgb(211, 206, 206);
+  }
+  
+  #info{
+      color: grey;
+      
+  }
+  #login_link{
+    color: black;
+    font-weight: bold;
+  }
+  
+  
